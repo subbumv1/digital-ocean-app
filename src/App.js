@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Fast - More fast 2
+          Learn React Fast - More fast 2, still fast
         </a>
       </header>
     </div>
